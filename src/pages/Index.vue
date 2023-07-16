@@ -3,7 +3,6 @@
 
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <g-image alt="Example image" src="~/favicon.png" width="135" />
-    <g-link to="/pages">Pages</g-link>
 
     <h1>Hello, world!</h1>
 
