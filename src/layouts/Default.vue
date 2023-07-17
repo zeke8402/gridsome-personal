@@ -8,6 +8,7 @@
         <g-link to="/">Home</g-link>
         <g-link class="ml-6" to="/about/">About</g-link>
         <g-link class="ml-6" to="/blog/">Blog</g-link>
+        <g-link class="ml-6" to="/three/">Threejs</g-link>
       </nav>
     </header>
     <slot/>
